@@ -1,0 +1,23 @@
+commit 0b4562f1c0ba35345296fc38c3ce545ea48c797e (HEAD -> bug3, origin/master, or
+igin/bug3, master)
+Author: marinast9 <marinatrajko07@gmail.com>
+Date:   Wed Feb 7 22:13:03 2024 +0100
+
+    Fix method sumEvenNumbers
+
+commit 3da10bf6a250ddf56a199a8310c4f8963eb3a95a
+Merge: 523fca5 a0c7864
+Author: marinast9 <marinatrajko07@gmail.com>
+Date:   Wed Feb 7 22:14:08 2024 +0100
+
+    Merge branch 'bug2'
+
+commit a0c7864f63a8e7dd9cf5331a6f8db6c0d54a2a43 (origin/bug2, bug2)
+Author: marinast9 <marinatrajko07@gmail.com>
+Date:   Wed Feb 7 22:12:24 2024 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 523fca583b53fc42bbe8cad7af952a4dc3493ec6 (origin/bug1, bug1)
+Author: marinast9 <marinatrajko07@gmail.com>
+Date:   Wed Feb 7 22:11:53 2024 +0100
